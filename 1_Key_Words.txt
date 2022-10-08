@@ -1,0 +1,19 @@
+Intermediate Python:
+
+Chapter 01.
+1. Matplotlib is mother of all visualization libraries.
+2. plt.xscale("log") use to convert Scale.
+
+Chapter 03.
+1. > , < , >=, <=, ==, !=   (Logical Operator)
+2. and, or,  not ( Logical Operator)
+3. if, else and elif (Conditional Statement)
+
+Chapter 04.
+1. while loop
+2. for loop
+3. dictionary.items()
+4. np.nditer()
+5. iterrows method in pandas
+6. .apply ()
+ 
